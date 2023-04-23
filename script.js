@@ -6,3 +6,10 @@ function navBar() {
         x.className = "topnav";
     }
 }
+
+
+// $(".articles p a").on("mouseover", function() {
+//     var link = $(".articles p a");
+//     var linkSize = link.css("font-size");
+//     link.css("font-size", "2rem");
+// });
