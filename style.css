@@ -1,1 +1,1370 @@
-#about h2,#tarifs h1{margin-left:12px;font-weight:900}#about p,#contact p,#offers p,.articles p{max-width:60ch}.article li,.topnav a{display:block}.articles li a,.forms .btn{font-size:12px}html{scroll-behavior:smooth}body{background-color:#eee;font-family:Montserrat,sans-serif;margin:0;overflow-x:hidden}.main-separator{visibility:hidden;margin:3rem auto;width:90vw}.underlined{text-decoration:underline}body p{text-align:justify}.topnav{background-color:#222831;overflow:hidden}.topnav a{float:left;color:#f2f2f2;text-align:center;padding:14px 16px;text-decoration:none;font-size:17px}#about,.articles h1{padding:1rem 0;text-align:center}.topnav a:hover{background-color:#ddd;color:#000}.topnav a.active{background-color:#00adb5;color:#fff}.topnav .icon,.vector-homepage{display:none}@media (max-width:1024px){.topnav a:not(:first-child){display:none}.topnav a.icon{float:right;display:block}.topnav.responsive{position:relative}.topnav.responsive a.icon{position:absolute;right:0;top:0}.topnav.responsive a{float:none;display:block;text-align:left}}#first-section{margin:0 12px}#first-section .container{margin:0 auto;text-align:center}#first-section h1{font-size:2rem;font-weight:900;text-align:left;width:90%}.img-1{border:2px solid #00adb5;border-radius:20px;margin:0 auto 4rem;width:85%;height:auto}#first-section p{font-weight:500;margin:0 5% 30px;max-width:60ch}#first-section a{position:relative;bottom:10px}#first-section .btn{background:#3498db;background-image:-webkit-linear-gradient(top,#3498db,#2980b9);background-image:-moz-linear-gradient(top,#3498db,#2980b9);background-image:-ms-linear-gradient(top,#3498db,#2980b9);background-image:-o-linear-gradient(top,#3498db,#2980b9);background-image:linear-gradient(to bottom,#3498db,#2980b9);-webkit-border-radius:24;-moz-border-radius:24;border-radius:24px;color:#fff;font-size:20px;padding:10px 20px;text-decoration:none}#first-section .btn:hover{background:#3cb0fd;background-image:-webkit-linear-gradient(top,#3cb0fd,#3498db);background-image:-moz-linear-gradient(top,#3cb0fd,#3498db);background-image:-ms-linear-gradient(top,#3cb0fd,#3498db);background-image:-o-linear-gradient(top,#3cb0fd,#3498db);background-image:linear-gradient(to bottom,#3cb0fd,#3498db);text-decoration:none}#about{background-color:hsla(218,20%,16%,.144);margin:0}#about h2{text-align:left}#about p{line-height:1.3em;margin:0 auto;width:85%}#about strong em{color:#393e46}#offers{background-image:url(assets/images/2sat.png);background-repeat:no-repeat;background-position:center;background-size:cover;margin:0!important}.offers-title{font-weight:900;margin:0 12px 1rem 8px}#offers h3{margin:1rem 0 0}#offers .container{background-color:hsla(0,100%,100%,.5);border:.5px solid #000;padding:2rem 0}#offers p{margin:0 24px}#offers .logo{font-size:36px}#tarifs .flexbox{display:flex;flex-direction:column;gap:3rem;justify-content:space-between;margin:0 auto;padding:2rem 0;width:85%}#tarifs .card{background:#706ad1;background:linear-gradient(180deg,#706ad1 17%,#fff 100%);border:1px solid #000;border-radius:15px;display:flex;flex-direction:column;text-align:center;padding:0 15px 15px}#tarifs h1{font-size:2.5rem}#tarifs .prices{align-items:start;border-radius:10px;display:flex;flex-direction:row;justify-content:space-between;margin:0 auto;padding:0 8px;width:90%}#tarifs .btn,.forms .btn{padding:10px 20px;text-decoration:none}#tarifs .prices h2{font-size:1.2rem}#tarifs .prices h3{color:#eee;font-size:2rem}#tarifs li{font-size:.9rem;line-height:1.3rem;text-align:left}#tarifs .btn{-webkit-border-radius:33;-moz-border-radius:33;border-radius:33px;font-family:Arial;color:#000;font-size:20px;border:2px solid #421842}#tarifs .btn:hover{color:#eee;background:#04034e;text-decoration:none;transform:translateY(+300);transition:.6s}#contact{color:#eee;margin:3rem 12px}#contact .flexbox{background-color:#222831;border-radius:10px;padding:8px}.forms{display:grid;gap:4px;grid-template-columns:repeat(4,1fr);grid-template-rows:repeat(6,1fr)}#contactname{border-radius:5px;grid-area:1/1/2/2}#contactsurname{border-radius:5px;grid-area:2/1/3/2}#contactmail{border-radius:5px;grid-area:3/1/4/2}#contactobject{border-radius:5px;grid-area:4/1/5/2}#contactmessage{border-radius:5px;grid-area:1/2/7/5}.forms .btn{-webkit-border-radius:15;-moz-border-radius:15;border-radius:15px;border:2px solid #f7fcff;color:#fff;grid-area:6/1/7/2;text-align:center}.forms .btn:hover{color:#000;background:#3370e1;text-decoration:none}.articles{color:#222831;justify-content:center}.articles h1{background-color:hsla(183,100%,35%,.317)}.articles h2{background-color:hsla(35,92%,62%,.491);margin:3rem auto;padding:.5rem 0;text-align:center;width:100vw}.articles h3{background-color:hsla(22,90%,49%,.417);margin:1rem auto;text-align:center;width:100%}.articles p{margin:1rem auto;width:80vw}.articles ol,.articles ul{margin:0 auto;text-align:justify;max-width:60ch;width:71vw}@media (min-width:425px){.img-1{margin:0 auto 2rem;width:90%;height:auto}#tarifs h1{font-size:2.5rem}}@media (min-width:768px){#first-section h1{font-size:2.5rem;text-align:center}.vector-homepage{display:block;width:30%;margin:0 auto}.img-1{float:right;width:55%;height:auto}#first-section p{font-weight:500;max-width:60ch;padding-bottom:2rem;width:35%}#first-section .btn{font-size:25px;padding:10px 20px}#contact .flexbox{margin:0 auto;width:80%}.articles li a{font-size:20px}}@media (min-width:1024px){#about,#first-section h1{text-align:center}#about h2,#tarifs li{text-align:left}.vector-homepage{display:block;width:30%;margin:0 auto}#first-section h1{font-size:3.2rem}.img-1{float:right;width:60%}#first-section p{font-weight:500;font-size:1.2rem;max-width:60ch;padding-bottom:5rem;text-align:left;width:32%}#about h2,.offers-title{font-size:2rem;font-weight:900}#first-section .btn{font-size:35px;padding:10px 20px}#about p{font-size:1.2rem;line-height:1.3em}#about strong em{color:#393e46}#offers{background-image:url(assets/images/2sat.png);background-repeat:no-repeat;background-position:center;background-size:cover;margin:0!important;padding:3rem 0}.offers-title{margin:0 12px 1rem 8px}#offers h3{margin:1rem 0 0}#offers .container{background-color:hsla(0,100%,100%,.5);border:.5px solid #000;border-radius:20px;margin:0 auto;padding:2rem;width:75%}#offers p{font-size:1.2rem;margin:0 24px;max-width:60ch}#offers .logo{font-size:36px}#tarifs .flexbox{display:flex;flex-direction:row;gap:3rem;justify-content:space-between;margin:0 auto;width:85%}#tarifs .card{justify-content:space-between}#tarifs h1{font-size:3rem;font-weight:900;margin-left:12px}#tarifs .prices{align-items:start;border-radius:10px;display:flex;flex-direction:row;justify-content:space-between;margin:0 auto;padding:0 8px;width:90%}#tarifs .prices h2{font-size:2.5rem}#tarifs .prices h3{color:#eee;font-size:2.5rem}#tarifs li{font-size:1.2rem;line-height:1.3rem;max-width:60ch;width:25ch}#contact .flexbox{margin:0 auto;width:60%}}@media (min-width:1440px){#first-section h1{font-size:4rem;text-align:center}.img-1{float:right;width:55%}.vector-homepage{display:block;width:30%;margin:0 auto}#first-section p{font-weight:500;font-size:2rem;max-width:60ch;padding-bottom:5rem;text-align:left;width:40%}#first-section .btn{font-size:50px;padding:10px 20px}#offers .container{background-color:hsla(0,100%,100%,.5);border:.5px solid #000;border-radius:20px;margin:0 auto;padding:2rem;width:55%}#tarifs .flexbox{justify-content:space-evenly}.articles h1{font-size:3rem}.articles h2{font-size:2.4rem}.articles h3{font-size:2rem}.articles li,.articles p{font-size:1.3rem}}@media (min-width:1920px){.articles h1{font-size:3rem}.articles h2{font-size:2.4rem}.articles h3{font-size:2rem}.articles li,.articles p{font-size:1.5rem}}@media (min-width:2560px){#about,#first-section h1,.forms .btn{text-align:center}#about p,#contact p,#offers p,#tarifs li{max-width:60ch}#first-section h1{font-size:8rem}.img-1{float:right;width:55%}.vector-homepage{display:block;width:30%;margin:0 auto}#first-section p{font-weight:500;font-size:3.6rem;max-width:60ch;margin-left:3rem;padding-bottom:4rem;text-align:ju;width:35%}#about h2,.articles h1,.offers-title{font-size:6rem}#about h2{font-weight:900;margin-left:3rem;text-align:left}#about p{font-size:3rem;line-height:1.3em;margin:0 auto 3rem}#about strong em{font-size:4rem;color:#393e46}#offers{background-image:url(assets/images/2sat.png);background-repeat:no-repeat;background-position:center;background-size:cover;margin:0!important;padding:3rem 0}.offers-title{font-weight:900;margin:0 12px 1rem 8px}#offers h3{font-size:5rem;margin:1rem 0 0}#offers p{font-size:3rem;margin:0 32px}#offers .logo{font-size:80px}#offers .container{background-color:hsla(0,100%,100%,.5);border:.5px solid #000;border-radius:20px;margin:0 auto;padding:2rem;width:55%}#contactmail,#contactmessage,#contactname,#contactobject,#contactsurname{border-radius:15px;font-size:3rem}#tarifs .flexbox{display:flex;flex-direction:row;gap:3rem;justify-content:space-evenly}#tarifs .card{border-radius:55px;padding:50px}#tarifs h1{font-size:8rem;font-weight:900;margin-left:12px}#tarifs .prices{align-items:start;border-radius:10px;display:flex;flex-direction:row;justify-content:space-between;margin:0 auto;padding:0 8px;width:90%}#contact h1,#contact h2,#tarifs .prices h2{font-size:5rem}#tarifs .prices h3{color:#eee;font-size:5rem}#tarifs li{font-size:2rem;line-height:2.5rem}#tarifs .btn{font-size:50px}#contact .flexbox{margin:0 auto;width:80%;background-color:#222831;border-radius:10px;padding:32px}#contact{color:#eee;margin:3rem 12px}.forms{display:grid;gap:24px;grid-template-columns:repeat(4,1fr);grid-template-rows:repeat(6,1fr)}#contactname{grid-area:1/1/2/2}#contactsurname{grid-area:2/1/3/2}#contactmail{grid-area:3/1/4/2}#contactobject{grid-area:4/1/5/2}#contactmessage{grid-area:1/2/7/5}.forms .btn{-webkit-border-radius:15;-moz-border-radius:15;border-radius:15px;border:2px solid #f7fcff;color:#fff;grid-area:6/1/7/2;font-size:3rem;padding:10px 20px;text-decoration:none}.forms .btn:hover{color:#000;background:#3370e1;text-decoration:none}#contact p{font-size:2.5rem}.articles h2{font-size:4rem}.articles h3{font-size:3rem}.articles li,.articles p{font-size:2.5rem}.articles li{width:42vw}}
+/* 
+#222831
+#393E46
+#00ADB5
+#EEEEEE
+font-family: 'Montserrat', sans-serif;
+*/
+
+/* ANIMATIONS */
+
+@keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+
+
+  @keyframes slideIn {
+    from {
+      transform: translateX(-100%);
+    }
+    to {
+      transform: translateX(0);
+    }
+  }
+
+  @keyframes fadeInButton {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: #EEEEEE;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    overflow-x: hidden;
+}
+
+/* Separator */
+.main-separator {
+    visibility: hidden;
+    margin: 3rem auto 3rem auto;
+    width: 90vw;
+}
+
+.underlined {
+    text-decoration: underline;
+}
+
+
+body p {
+    text-align: justify;
+}
+
+/* Navigation Bar */
+
+.topnav {
+    background-color: #222831;
+    overflow: hidden;
+}
+
+.topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.topnav a.active {
+    background-color: #00ADB5;
+    color: white;
+}
+
+.topnav .icon {
+    display: none;
+}
+
+@media (max-width: 1024px) {
+
+    .topnav a:not(:first-child) {
+        display: none;
+    }
+
+    .topnav a.icon {
+        float: right;
+        display: block;
+    }
+
+    .topnav.responsive {
+        position: relative;
+    }
+
+    .topnav.responsive a.icon {
+        position: absolute;
+        right: 0;
+        top: 0;
+    }
+
+    .topnav.responsive a {
+        float: none;
+        display: block;
+        text-align: left;
+    }
+
+}
+
+/* Flipping Card Animations */
+
+.flip-card-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    margin: 6rem 0;
+    width: 60%;
+}
+
+
+.flip-card {
+    background-color: transparent;
+    width: 300px;
+    height: 400px;
+    perspective: 1000px;
+  }
+  
+  .flip-card-inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transition: transform 0.6s;
+    transform-style: preserve-3d;
+  }
+  
+  .flip-card:hover .flip-card-inner {
+    transform: rotateY(180deg);
+  }
+  
+  .flip-card-front, .flip-card-back {
+    position: absolute;
+    width: 75%;
+    height: 75%;
+    backface-visibility: hidden;
+  }
+  
+  .flip-card-front img, .flip-card-back img {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .flip-card-back {
+    transform: rotateY(180deg);
+  }
+
+
+
+/* HomePage Image */
+
+.vector-homepage {
+    display: none;
+    transform: translateX(-100%);
+    animation: slideIn 0.5s ease-out forwards;
+}
+
+/* First Section  */
+#first-section {
+    margin: 0 12px;
+}
+
+
+/* Container */
+
+#first-section .container {
+    margin: 0 auto 0 auto;
+    text-align: center;
+}
+
+
+/* Title */
+#first-section h1 {
+    font-size: 2rem;
+    font-weight: 900;
+    text-shadow: 2px 2px 2px #666;
+    text-align: left;
+    width: 90%;
+}
+
+
+/* Image */
+.img-1 {
+    border: 2px solid #00ADB5;
+    border-radius: 20px;
+    margin: 0 auto 4rem auto;
+    width: 85%;
+    height: auto;
+    opacity: 0;
+    animation: fadeIn 1s ease-out forwards;
+}
+
+
+/* Presentation Text */
+#first-section p {
+    font-weight: 500;
+    margin: 0 5% 30px 5%;
+    max-width: 60ch;
+}
+
+/* Button */
+
+#first-section a {
+    position: relative;
+    bottom: 10px;
+    opacity: 0;
+    animation: fadeInButton 0.5s ease-out forwards 2s;
+}
+
+#first-section .btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 24;
+    -moz-border-radius: 24;
+    border-radius: 24px;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  #first-section .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+
+
+  /* About */
+/* Section */
+#about {
+    background-color: hsla(218, 20%, 16%, 0.144);
+    margin: 0;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+/* Title */
+#about h2 {
+    font-weight: 900;
+    text-align: left;
+    margin-left: 12px;
+}
+
+/* Paragraphs */
+#about p {
+    line-height: 1.3em;
+    max-width: 60ch;
+    margin: 0 auto 0 auto;
+    width: 85%;
+}
+
+
+/* Link Text */
+
+#about strong em {
+    color: #393E46;
+}
+
+/* Offers */
+
+/* Section */
+#offers {
+    background-image: url(assets/images/2sat.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin: 0 !important;
+}
+
+/* Title */
+.offers-title {
+    font-weight: 900;
+    margin: 0 12px 1rem 8px;
+}
+
+/* Subtitles */
+#offers h3 {
+    margin: 1rem 0 0 0;
+}
+
+/* White COntainer */
+#offers .container {
+    background-color: hsla(0, 100%, 100%, 0.5);
+    border: 0.5px solid black;
+    padding: 2rem 0;
+}
+
+/* Paragraphs */
+#offers p {
+    margin: 0 24px;
+    max-width: 60ch;
+}
+
+/* Logos */
+#offers .logo {
+    font-size: 36px;
+}
+
+/* _________________TARIFS.HTML_________________________________________________________________________________________________ */
+
+/* Whole Container */
+#tarifs .flexbox {
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+    justify-content: space-between;
+    margin: 0 auto 0 auto;
+    padding: 2rem 0;
+    width: 85%;
+}
+
+/* Card */
+#tarifs .card {
+    background: rgb(112,106,209);
+    border: 1px solid black;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 0 15px 15px 15px;
+    transition: all 0.2s ease-in-out;
+}
+
+#tarifs .card:hover {
+    transform: translateY(-25px);
+    box-shadow: 0 2px 4px rgba(0,0,0,0.15);
+  }
+
+#tarifs .essential {
+    background-image: linear-gradient(to bottom, #F5F5F5, #D3D3D3);
+    color: #000000;
+}
+
+#tarifs .specialist {
+    background-image: linear-gradient(to bottom, #8FBC8F, #556B2F, #8FBC8F);
+    color: #f5f5f5; /* light font color for the top and bottom sections */
+  }
+
+#tarifs .premium {
+    background-image: linear-gradient(to bottom, #F9D19A, #D97818);
+    color: #fff; /* white font color */
+}
+
+
+ /* PAGE Title */
+#tarifs h1 {
+    font-size: 2.5rem;
+    font-weight: 900;
+    margin-left: 12px;
+    text-align: center;
+}
+
+/* Pack Name + Price Container */
+#tarifs .prices {
+    align-items: start;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0 auto 0 auto;
+    padding: 0 8px;
+    width: 90%;
+}
+
+/* Pack Name Title */
+#tarifs .prices h2 {
+    font-size: 1.2rem;
+}
+
+/* Pack Price Tag */
+#tarifs .prices h3 {
+    color: #EEEEEE;
+    font-size: 2rem;
+}
+
+#tarifs .essential .prices h3 {
+    color: #000000;
+}
+
+/* List items */
+#tarifs li {
+    font-size: 0.9rem;
+    line-height: 1.3rem;
+    text-align: left;
+}
+
+/* Button */
+#tarifs .btn {
+    -webkit-border-radius: 33;
+    -moz-border-radius: 33;
+    border-radius: 33px;
+    font-family: Arial;
+    color: #fff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    border: solid #421842 2px;
+    text-decoration: none;
+  }
+
+  #tarifs .essential .btn {
+    color: #080000;
+  }
+  
+  #tarifs .btn:hover {
+    color: #EEEEEE;
+    background: #04034e;
+    text-decoration: none;
+    transform: translateY(+300);
+    transition: 0.6s;
+  }
+
+/* _________________CONTACT.HTML_________________________________________________________________________________________________ */
+
+#contact {
+    padding: 40px 20px;
+    text-align: justify;
+  }
+
+  #contact div form fieldset {
+    border: 1p solid black;
+    width: 80%;
+  }
+
+  #fs-frm input,
+  #fs-frm select,
+  #fs-frm textarea,
+  #fs-frm fieldset,
+  #fs-frm optgroup,
+  #fs-frm label,
+  #fs-frm #card-element:disabled {
+    font-family: inherit;
+    font-size: 100%;
+    color: inherit;
+    border: none;
+    border-radius: 0;
+    display: block;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+  }
+  #fs-frm label,
+  #fs-frm legend,
+  #fs-frm ::placeholder {
+    font-size: .825rem;
+    margin-bottom: .5rem;
+    padding-top: .2rem;
+    display: flex;
+    align-items: baseline;
+  }
+  
+  /* border, padding, margin, width */
+  #fs-frm input,
+  #fs-frm select,
+  #fs-frm textarea,
+  #fs-frm #card-element {
+    border: 1px solid rgba(0,0,0,0.2);
+    background-color: rgba(255,255,255,0.9);
+    padding: .75em 1rem;
+    margin-bottom: 1.5rem;
+  }
+  #fs-frm input:focus,
+  #fs-frm select:focus,
+  #fs-frm textarea:focus {
+    background-color: white;
+    outline-style: solid;
+    outline-width: thin;
+    outline-color: gray;
+    outline-offset: -1px;
+  }
+  #fs-frm [type="text"],
+  #fs-frm [type="email"] {
+    width: 100%;
+  }
+  #fs-frm [type="button"],
+  #fs-frm [type="submit"],
+  #fs-frm [type="reset"] {
+    width: auto;
+    cursor: pointer;
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+  }
+  #fs-frm [type="button"]:focus,
+  #fs-frm [type="submit"]:focus,
+  #fs-frm [type="reset"]:focus {
+    outline: none;
+  }
+  #fs-frm [type="submit"],
+  #fs-frm [type="reset"] {
+    margin-bottom: 0;
+  }
+  #fs-frm select {
+    text-transform: none;
+  }
+  
+  #fs-frm [type="checkbox"] {
+    -webkit-appearance: checkbox;
+    -moz-appearance: checkbox;
+    appearance: checkbox;
+    display: inline-block;
+    width: auto;
+    margin: 0 .5em 0 0 !important;
+  }
+  
+  #fs-frm [type="radio"] {
+    -webkit-appearance: radio;
+    -moz-appearance: radio;
+    appearance: radio;
+  }
+  
+  /* address, locale */
+  #fs-frm fieldset.locale input[name="city"],
+  #fs-frm fieldset.locale select[name="state"],
+  #fs-frm fieldset.locale input[name="postal-code"] {
+    display: inline;
+  }
+  #fs-frm fieldset.locale input[name="city"] {
+    width: 52%;
+  }
+  #fs-frm fieldset.locale select[name="state"],
+  #fs-frm fieldset.locale input[name="postal-code"] {
+    width: 20%;
+  }
+  #fs-frm fieldset.locale input[name="city"],
+  #fs-frm fieldset.locale select[name="state"] {
+    margin-right: 3%;
+  }
+ 
+  
+
+  
+
+/* _________________ARTICLES HANDLING_________________________________________________________________________________________________ */
+
+.articles {
+    color: #222831;
+    justify-content: center;
+    /* list-style-position: inside; */
+}
+
+.articles h1 {
+    background-color: hsla(183, 100%, 35%, 0.317);
+    padding: 1rem 0;
+    text-align: center;
+}
+
+.articles h2 {
+    background-color: hsla(35, 92%, 62%, 0.491);
+    margin: 3rem auto 3rem auto;
+    padding: 0.5rem 0;
+    text-align: center;
+    width: 100vw;
+}
+
+.articles h3 {
+    background-color: hsla(22, 90%, 49%, 0.417);
+    margin: 1rem auto 1rem auto;
+    text-align: center;
+    width: 100%;
+}
+
+
+.articles p {
+    margin: 1rem auto 1rem auto;
+    max-width: 60ch;
+    width: 80vw;
+}
+
+.articles ul {
+    margin: 0 auto 0 auto;
+    max-width: 60ch;
+    text-align: justify;
+    width: 71vw;
+}
+
+.articles ol {
+    margin: 0 auto 0 auto;
+    text-align: justify;
+    max-width: 60ch;
+    width: 71vw;
+}
+
+.article li {
+    display: block;
+}
+
+.articles li a {
+    font-size: 12px;
+}
+
+
+
+/* _________________MEDIA QUERIES_________________________________________________________________________________________________ */
+/* _________________MEDIA QUERIES_________________________________________________________________________________________________ */
+/* _________________MEDIA QUERIES_________________________________________________________________________________________________ */
+/* _________________MEDIA QUERIES_________________________________________________________________________________________________ */
+/* _________________MEDIA QUERIES_________________________________________________________________________________________________ */
+/* _________________MEDIA QUERIES_________________________________________________________________________________________________ */
+/* _________________MEDIA QUERIES_________________________________________________________________________________________________ */
+/* _________________MEDIA QUERIES_________________________________________________________________________________________________ */
+/* _________________MEDIA QUERIES_________________________________________________________________________________________________ */
+
+
+
+@media (min-width: 425px) {
+
+
+    /* FLIPCARDS */
+
+    .flip-card-container {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        margin: 6rem 10%;
+        width: 60%;
+    }
+
+
+
+    .img-1 {
+        margin: 0 auto 2rem auto;
+        width: 90%;
+        height: auto;
+    }
+
+/* _________________TARIFS.HTML_________________________________________________________________________________________________ */
+
+    #tarifs h1 {
+        font-size: 2.5rem;
+    }
+
+/* _________________CONTACT.HTML_________________________________________________________________________________________________ */
+
+
+/* _________________ARTICLES HANDLING_________________________________________________________________________________________________ */
+
+
+
+}
+
+@media (min-width: 768px) {
+   
+    /* FLIPCARD */
+
+
+    .flip-card-container {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        margin: 6rem auto;
+        width: 80%;
+    }
+
+
+    .flip-card {
+        background-color: transparent;
+        width: 400px;
+        height: 300px;
+        perspective: 1000px;
+      }
+
+
+
+
+
+
+
+
+    /* Title */
+    #first-section h1 {
+        font-size: 2.5rem;
+        text-align: center;
+    }
+    
+    .vector-homepage {
+        display: block;
+        width: 30%;
+        margin: 0 auto 0 auto;
+    }
+
+    
+    /* Image */
+    .img-1 {
+        float: right;
+        width: 55%;
+        height: auto;
+    }
+    
+    
+    /* Presentation Text */
+    #first-section p {
+        font-weight: 500;
+        max-width: 60ch;
+        padding-bottom: 2rem;
+        width: 35%;
+    }
+    
+    #first-section .btn {
+        font-size: 25px;
+        padding: 10px 20px 10px 20px;
+      }
+/* _________________TARIFS.HTML_________________________________________________________________________________________________ */
+
+
+/* _________________CONTACT.HTML_________________________________________________________________________________________________ */
+
+      /* Whole Box */
+    #contact .flexbox {
+        margin: 0 auto 0 auto;
+        width: 80%;
+    }
+
+/* _________________ARTICLES HANDLING_________________________________________________________________________________________________ */
+
+.articles li a {
+    font-size: 20px;
+}
+
+}
+
+@media (min-width: 1024px) {
+
+
+    .vector-homepage {
+        display: block;
+        width: 30%;
+        margin: 0 auto 0 auto;
+    }    
+
+
+    /* Title */
+    #first-section h1 {
+        font-size: 3.2rem;
+        text-align: center;
+    }
+    
+    
+    /* Image */
+    .img-1 {
+        float: right;
+        width: 60%;
+    }
+    
+    
+    /* Presentation Text */
+    #first-section p {
+        font-weight: 500;
+        font-size: 1.2rem;
+        max-width: 60ch;
+        padding-bottom: 5rem;
+        text-align: left;
+        width: 32%;
+    }
+    
+    #first-section .btn {
+        font-size: 35px;
+        padding: 10px 20px 10px 20px;
+      }
+
+
+    /* About */
+    /* Section */
+    #about {
+        text-align: center;
+    }
+
+    /* Title */
+    #about h2 {
+        font-size: 2rem;
+        font-weight: 900;
+        text-align: left;
+    }
+
+    /* Paragraphs */
+    #about p {
+        font-size: 1.2rem;
+        line-height: 1.3em;
+    }
+
+
+    /* Link Text */
+
+    #about strong em {
+        color: #393E46;
+    }
+
+    /* Offers */
+
+    /* Section */
+    #offers {
+        background-image: url(assets/images/2sat.png);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        margin: 0 !important;
+        padding: 3rem 0;
+    }
+
+    /* Title */
+    .offers-title {
+        font-size: 2rem;
+        font-weight: 900;
+        margin: 0 12px 1rem 8px;
+    }
+
+    /* Subtitles */
+    #offers h3 {
+        margin: 1rem 0 0 0;
+    }
+
+    /* White COntainer */
+    #offers .container {
+        background-color: hsla(0, 100%, 100%, 0.5);
+        border: 0.5px solid black;
+        border-radius: 20px;
+        margin: 0 auto 0 auto;
+        padding: 2rem;
+        width: 75%;
+    }
+
+    /* Paragraphs */
+    #offers p {
+        font-size: 1.2rem;
+        margin: 0 24px;
+        max-width: 60ch;
+    }
+
+    /* Logos */
+    #offers .logo {
+        font-size: 36px;
+    }
+        /* _________________TARIFS.HTML_________________________________________________________________________________________________ */
+
+    /* Whole Container */
+    #tarifs .flexbox {
+        display: flex;
+        flex-direction: row;
+        gap: 3rem;
+        justify-content: space-between;
+        margin: 0 auto 0 auto;
+        width: 85%;
+    }
+
+    /* Card */
+    #tarifs .card {
+        justify-content: space-between;
+    }
+
+
+    /* PAGE Title */
+    #tarifs h1 {
+        font-size: 3rem;
+        font-weight: 900;
+        margin-left: 12px;
+    }
+
+    /* Pack Name + Price Container */
+    #tarifs .prices {
+        align-items: start;
+        border-radius: 10px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        margin: 0 auto 0 auto;
+        padding: 0 8px;
+        width: 90%;
+    }
+
+    /* Pack Name Title */
+    #tarifs .prices h2 {
+        font-size: 2.5rem;
+    }
+
+    /* Pack Price Tag */
+    #tarifs .prices h3 {
+        color: #EEEEEE;
+        font-size: 2.5rem;
+    }
+
+    /* List items */
+    #tarifs li {
+        font-size: 1.2rem;
+        line-height: 1.3rem;
+        text-align: left;
+        max-width: 60ch;
+        width: 25ch
+    }
+    
+
+/* _________________CONTACT.HTML_________________________________________________________________________________________________ */
+
+    #contact .flexbox {
+        margin: 0 auto 0 auto;
+        width: 60%;
+    }
+
+/* _________________ARTICLES HANDLING_________________________________________________________________________________________________ */
+
+
+
+
+}
+
+@media (min-width: 1440px) {
+ 
+    /* FLIPCARD */
+
+    .flip-card {
+        background-color: transparent;
+        width: 300px;
+        height: 400px;
+        perspective: 1000px;
+      }
+ 
+
+ 
+    /* Title */
+     #first-section h1 {
+        font-size: 4rem;
+        text-align: center;
+    }
+    
+    
+    /* Image */
+    .img-1 {
+        float: right;
+        width: 55%;
+    }
+    
+    
+    .vector-homepage {
+        display: block;
+        width: 30%;
+        margin: 0 auto 0 auto;
+    }
+
+
+    /* Presentation Text */
+    #first-section p {
+        font-weight: 500;
+        font-size: 2rem;
+        max-width: 60ch;
+        padding-bottom: 5rem;
+        text-align: left;
+        width: 40%;
+    }
+    
+    #first-section .btn {
+        font-size: 50px;
+        padding: 10px 20px 10px 20px;
+    }
+
+    #offers .container {
+        background-color: hsla(0, 100%, 100%, 0.5);
+        border: 0.5px solid black;
+        border-radius: 20px;
+        margin: 0 auto 0 auto;
+        padding: 2rem;
+        width: 55%;
+    }
+
+/* _________________TARIFS.HTML_________________________________________________________________________________________________ */
+
+    /* Whole Container */
+    #tarifs .flexbox {
+        justify-content: space-evenly;
+    }
+
+/* _________________CONTACT.HTML_________________________________________________________________________________________________ */
+
+
+/* _________________ARTICLES HANDLING_________________________________________________________________________________________________ */
+
+    .articles h1 {
+        font-size: 3rem;
+    }
+
+    .articles h2 {
+        font-size: 2.4rem;
+    }
+
+    .articles h3 {
+        font-size: 2rem;
+    }
+
+    .articles p {
+        font-size: 1.3rem;
+    }
+
+    .articles li {
+        font-size: 1.3rem;
+    }
+
+
+
+
+}
+
+@media (min-width: 1920px) {
+    .articles h1 {
+        font-size: 3rem;
+    }
+
+    .articles h2 {
+        font-size: 2.4rem;
+    }
+
+    .articles h3 {
+        font-size: 2rem;
+    }
+
+    .articles p {
+        font-size: 1.5rem;
+    }
+
+
+    .articles li {
+        font-size: 1.5rem;
+    }
+
+}
+
+@media (min-width: 2560px) {
+ 
+    /* FLIPCARD */
+
+
+    .flip-card-container {
+        margin: 10rem auto;
+        width: 60%;
+    }
+
+
+
+    .flip-card {
+        background-color: transparent;
+        width: 600px;
+        height: 800px;
+        perspective: 1000px;
+      }
+ 
+
+ 
+    #first-section h1 {
+        font-size: 8rem;
+        text-align: center;
+    }
+    
+    
+    /* Image */
+    .img-1 {
+        float: right;
+        width: 55%;
+    }
+    
+
+    .vector-homepage {
+        display: block;
+        width: 30%;
+        margin: 0 auto 0 auto;
+    }
+    
+    /* Presentation Text */
+    #first-section p {
+        font-weight: 500;
+        font-size: 3.6rem;
+        max-width: 60ch;
+        margin-left: 3rem;
+        padding-bottom: 4rem;
+        text-align: ju;
+        width: 35%;
+    }
+    
+
+
+
+
+    /* About */
+    /* Section */
+    #about {
+        text-align: center;
+    }
+
+    /* Title */
+    #about h2 {
+        font-size: 6rem;
+        font-weight: 900;
+        margin-left: 3rem;
+        text-align: left;
+    }
+
+    /* Paragraphs */
+    #about p {
+        font-size: 3rem;
+        line-height: 1.3em;
+        margin: 0 auto 3rem auto;
+        max-width: 60ch;
+    }
+
+
+    /* Link Text */
+
+    #about strong em {
+        font-size: 4rem;
+        color: #393E46;
+    }
+
+    /* Offers */
+
+    /* Section */
+    #offers {
+        background-image: url(assets/images/2sat.png);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        margin: 0 !important;
+        padding: 3rem 0;
+    }
+
+    /* Title */
+    .offers-title {
+        font-size: 6rem;
+        font-weight: 900;
+        margin: 0 12px 1rem 8px;
+    }
+
+    /* Subtitles */
+    #offers h3 {
+        font-size: 5rem;
+        margin: 1rem 0 0 0;
+    }
+    /* Paragraphs */
+    #offers p {
+        font-size: 3rem;
+        margin: 0 32px;
+        max-width: 60ch;
+    }
+
+    /* Logos */
+    #offers .logo {
+        font-size: 80px;
+    }
+
+
+
+    #offers .container {
+        background-color: hsla(0, 100%, 100%, 0.5);
+        border: 0.5px solid black;
+        border-radius: 20px;
+        margin: 0 auto 0 auto;
+        padding: 2rem;
+        width: 55%;
+    }
+
+    /* _________________TARIFS.HTML_________________________________________________________________________________________________ */
+
+    /* Whole Container */
+    #tarifs .flexbox {
+        display: flex;
+        flex-direction: row;
+        gap: 3rem;
+        justify-content: space-evenly;
+    }
+
+    /* Card */
+    #tarifs .card {
+        border-radius: 55px;
+        padding: 50px;
+    }
+
+
+    /* PAGE Title */
+    #tarifs h1 {
+        font-size: 8rem;
+        font-weight: 900;
+        margin-left: 12px;
+    }
+
+    /* Pack Name + Price Container */
+    #tarifs .prices {
+        align-items: start;
+        border-radius: 10px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        margin: 0 auto 0 auto;
+        padding: 0 8px;
+        width: 90%;
+    }
+
+    /* Pack Name Title */
+    #tarifs .prices h2 {
+        font-size: 5rem;
+    }
+
+    /* Pack Price Tag */
+    #tarifs .prices h3 {
+        color: #EEEEEE;
+        font-size: 5rem;
+    }
+
+    /* List items */
+    #tarifs li {
+        font-size: 2rem;
+        line-height: 2.5rem;
+        max-width: 60ch;
+    }
+
+    #tarifs .btn {
+        font-size: 50px;
+      }
+
+/* _________________CONTACT.HTML_________________________________________________________________________________________________ */
+
+    #contact .flexbox {
+        margin: 0 auto 0 auto;
+        width: 80%;
+    }
+
+    /* Contact Section */
+    #contact {
+        color: #EEEEEE;
+        margin: 3rem 12px;
+    }
+
+    /* Whole Box */
+    #contact .flexbox {
+        background-color: #222831;
+        border-radius: 10px;
+        padding: 32px;
+    }
+
+    /* Forms Container */
+    .forms {
+        display: grid;
+        gap: 24px;
+        grid-template-columns: repeat(4, 1fr);
+        grid-template-rows: repeat(6, 1fr);
+    }
+
+    /* Forms */
+    #contactname {
+        font-size: 3rem;
+        border-radius: 15px;
+        grid-area: 1/1/2/2;
+    }
+
+    #contactsurname {
+        font-size: 3rem;
+        border-radius: 15px;
+        grid-area: 2/1/3/2;
+    }
+
+    #contactmail {
+        font-size: 3rem;
+        border-radius: 15px;
+        grid-area: 3/1/4/2;
+    }
+
+    #contactobject {
+        font-size: 3rem;
+        border-radius: 15px;
+        grid-area: 4/1/5/2;
+    }
+
+    #contactmessage {
+        font-size: 3rem;
+        border-radius: 15px;
+        grid-area: 1/2/7/5;
+    }
+
+    /* Button */
+    .forms .btn {
+        -webkit-border-radius: 15;
+        -moz-border-radius: 15;
+        border-radius: 15px;
+        border: solid #f7fcff 2px;
+        color: #ffffff;
+        grid-area: 6/1/7/2;
+        font-size: 3rem;
+        padding: 10px 20px 10px 20px;
+        text-decoration: none;
+        text-align: center;
+    }
+    
+    .forms .btn:hover {
+        color: black;
+        background: #3370e1;
+        text-decoration: none;
+    }
+
+    /* Title */
+    #contact h1 {
+        font-size: 5rem;
+    }
+
+    /* Paragraphs */
+    #contact p {
+        font-size: 2.5rem;
+        max-width: 60ch;
+    }
+
+    /* Form Title */
+    #contact h2 {
+        font-size: 5rem;
+    }
+
+
+/* _________________ARTICLES HANDLING_________________________________________________________________________________________________ */
+
+    .articles h1 {
+        font-size: 6rem;
+    }
+
+    .articles h2 {
+        font-size: 4rem;
+    }
+
+    .articles h3 {
+        font-size: 3rem;
+    }
+
+    .articles p {
+        font-size: 2.5rem;
+    }
+
+    .articles li {
+        font-size: 2.5rem;
+        width: 42vw;
+    }
+
+
+}

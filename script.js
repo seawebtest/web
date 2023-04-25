@@ -7,9 +7,18 @@ function navBar() {
     }
 }
 
+const cards = $('.flip-card');
 
-// $(".articles p a").on("mouseover", function() {
-//     var link = $(".articles p a");
-//     var linkSize = link.css("font-size");
-//     link.css("font-size", "2rem");
-// });
+cards.forEach(card => {
+  card.addEventListener('click', () => {
+    card.classList.toggle('flipped');
+  });
+});
+
+
+function showPopup() {
+  document.getElementById("popup").style.display = "block";
+}
+function hidePopup() {
+  document.getElementById("popup").style.display = "none";
+}
