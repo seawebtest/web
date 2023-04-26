@@ -50,9 +50,8 @@ body {
 
 /* Separator */
 .main-separator {
-    visibility: hidden;
     margin: 3rem auto 3rem auto;
-    width: 90vw;
+    width: 80vw;
 }
 
 .underlined {
@@ -174,6 +173,7 @@ body p {
 
 
 /* HomePage Image */
+
 
 .vector-homepage {
     display: none;
@@ -872,6 +872,7 @@ body p {
     #tarifs .flexbox {
         display: flex;
         flex-direction: row;
+        flex-wrap: wrap;
         gap: 3rem;
         justify-content: space-between;
         margin: 0 auto 0 auto;
@@ -881,6 +882,8 @@ body p {
     /* Card */
     #tarifs .card {
         justify-content: space-between;
+        flex-basis: 300px;
+        max-width: 100%;
     }
 
 

@@ -19,13 +19,17 @@
 
     <!-- FONTAWESOME -->
     <script src="https://kit.fontawesome.com/ec8e87bfbb.js" crossorigin="anonymous"></script>
+
+    <!-- ICON -->
+    <link rel="shortcut icon" href="./assets/images/favicon.ico" type="image/x-icon">
+
 </head>
 <body>
 
     <div class="topnav" id="myTopNav">
         <a href="./index.html" class="active">Accueil</a>
         <a href="./index.html#about">A propos</a>
-        <a href="./demarches.html">Les démarches</a>
+        <a href="./demarches-first.html">Les démarches</a>
         <a href="./fiscal-first.html">Fiscalité</a>
         <a href="./assurance.html">Assurances</a>
         <a href="./contact.html">Contact</a>
@@ -53,6 +57,9 @@
                 la case message.
             </p>
             <p>Au plaisir de vous rencontrer !</p>
+
+            <hr style="max-width: 65%; margin: 4rem 0;">
+            
             <h2>Formulaire de contact</h2>
             <div class="container forms">
                 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mayzavna" method="post">
@@ -65,10 +72,17 @@
                       <textarea rows="5" name="message" id="message" placeholder="Votre message juste ici !" required=""></textarea>
                       <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
                     </fieldset>
-                    <input type="submit" value="Submit">
+                    <input type="submit" value="Envoyer !">
                   </form>
             </div>
     </section>
+    <script>
+        const urlParams = new URLSearchParams(window.location.search);
+        const message = urlParams.get('message');    
+        if (message) {
+          document.getElementById('message').value = message;
+        }
+      </script>
 <!-- __________________Setup______________________________________________________________________________________________ -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>    
     <script src="script.js"></script>
